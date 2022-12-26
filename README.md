@@ -12,7 +12,7 @@ You can check out our presentation to learn more about this project and view our
 4. Keyboard (HW-834)
 5. RFID reader (RC522)
 6. RFID cards
-7. Ultrasonic motion sensor (HC-SR04)
+7. Ultrasonic distance sensor (HC-SR04)
 8. (Passive) Buzzer 
 9. Red LED
 10. Green LED
