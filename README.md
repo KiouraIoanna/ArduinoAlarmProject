@@ -2,6 +2,7 @@
 Project implemented at NTUA ECE Microlab.
 
 Team members: Panagiota Rempi, Ioanna Kioura.
+![IMG_7311](https://user-images.githubusercontent.com/121453556/211156268-bb158888-0a27-4443-8b75-42e21c909e48.jpg)
 
 You can check out our presentation to learn more about this project and view our demo video to watch the alarm operate.
 
