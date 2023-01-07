@@ -32,3 +32,5 @@ You only need Arduino IDE.
 4. The alarm system is ready for use.
 
 # Schematic
+![image](https://user-images.githubusercontent.com/121453556/211156048-a62e3620-1355-4d57-a83f-ee00193c0812.png)
+
