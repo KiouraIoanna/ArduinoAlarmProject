@@ -16,7 +16,7 @@ You can check out our presentation to learn more about this project and view our
 8. (Passive) Buzzer 
 9. Red LED
 10. Green LED
-11. 3 x 330 KΩ resistors
+11. 3 x 330 Ω resistors
 12. LCD screen (QAPASS 1602A)
 13. IR Receiver (KY-022 HX-1838)
 14. IR LED Transmitter 
