@@ -17,7 +17,7 @@ You can check out our presentation to learn more about this project and view our
 9. Red LED
 10. Green LED
 11. 3 x 330 Ω resistors
-12. LCD screen (QAPASS 1602A)
+12. LCD screen I2C (QAPASS 1602A)
 13. IR Receiver (KY-022 HX-1838)
 14. IR LED Transmitter 
 15. Cables
